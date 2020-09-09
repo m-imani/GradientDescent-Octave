@@ -1,3 +1,7 @@
 * linguist-vendored
 *.m linguist-language=Octave
-*.m linguist-detectable=false *.m linguist-language=Octave *.m linguist-detectable=true android/* linguist-vendored build/* linguist-vendored
+*.m linguist-detectable=false 
+*.m linguist-language=Octave 
+*.m linguist-detectable=true 
+android/* linguist-vendored 
+build/* linguist-vendored
